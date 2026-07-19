@@ -192,7 +192,7 @@ I'm always up for contributing to open-source AI/ML work — especially anything
 
 <a href="mailto:mdaliclass@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ali215666"><img src="https://img.shields.io/badge/Github-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/11iFgJ6B5dof_yz0qLkuA3WqFthHc3fgC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4338CA?style=flat-square&logo=readdotcv&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1C3M5qeqkH8IgdqEXHKh4jAo8_a4Vjdb8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4338CA?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 <br/>
 
