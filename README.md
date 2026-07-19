@@ -130,7 +130,7 @@ Multi-stream CUDA parallelism for an encoder-free vision-language model.
 </td>
 <td width="50%" valign="top">
 
-**👁️ Real-Time Reading Assistant**
+**👁️ VoiceLens**
 
 Mobile OCR + Text-to-Speech app for the visually impaired.
 
@@ -175,10 +175,11 @@ Fully local conversational AI system for hotel front-desk operations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali215666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=312E81&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali215666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ali215666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=312E81&text_color=c9d1d9&v=2" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali215666&theme=tokyonight&hide_border=true&background=0D1117&ring=312E81&fire=6366F1&currStreakLabel=6366F1" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali215666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&v=2" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali215666&theme=tokyonight&hide_border=true&background=0D1117&ring=312E81&fire=6366F1&currStreakLabel=6366F1&v=2" width="100%"/>
 
 </div>
 
