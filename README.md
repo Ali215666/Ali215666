@@ -173,23 +173,26 @@ Fully local conversational AI system for hotel front-desk operations.
 
 ### 📈 GitHub Stats
 
-<!-- GitHub Stats -->
+<!-- Profile Details -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ali215666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=312E81&text_color=c9d1d9&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali215666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&cache_seconds=1800"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali215666&theme=tokyonight" />
 </p>
 
+<!-- Stats -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ali215666&theme=tokyonight&hide_border=true&background=0D1117&ring=312E81&fire=6366F1&currStreakLabel=6366F1"
-    width="100%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali215666&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali215666&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali215666&theme=tokyonight" width="32%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali215666&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali215666&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
