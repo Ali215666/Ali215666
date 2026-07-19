@@ -169,33 +169,7 @@ Fully local conversational AI system for hotel front-desk operations.
 - Applied learned techniques to real-world AI/ML projects, working across the full model development lifecycle — from data preprocessing to deployment and performance assessment
 - Gained hands-on exposure to practical ML workflows beyond coursework, bridging theory with applied engineering practice
 
----
 
-### 📈 GitHub Stats
-
-<!-- Profile Details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali215666&theme=tokyonight" />
-</p>
-
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali215666&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali215666&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali215666&theme=tokyonight" width="32%" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali215666&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali215666&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
 
 <div align="center">
 
