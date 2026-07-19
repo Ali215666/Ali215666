@@ -169,7 +169,7 @@ Fully local conversational AI system for hotel front-desk operations.
 - Applied learned techniques to real-world AI/ML projects, working across the full model development lifecycle — from data preprocessing to deployment and performance assessment
 - Gained hands-on exposure to practical ML workflows beyond coursework, bridging theory with applied engineering practice
 
-
+---
 
 <div align="center">
 
